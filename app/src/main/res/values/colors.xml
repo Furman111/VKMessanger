@@ -7,4 +7,5 @@
     <color name="colorGradientCenter">#33836e</color>
     <color name="colorGradientEnd">#008026</color>
     <color name="colorGradientStart">#a2d8da</color>
+    <color name="colorOnlineStatus">#5effe4</color>
 </resources>
